@@ -1,4 +1,4 @@
-![logo](https://github.com/abhishekgupta1906/abhishekgupta1906/blob/main/README.md)
+![logo](https://github.com/abhishekgupta1906/abhishekgupta1906/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">I am an skilled coder with a strong passion for software development, cybersecurity</h3>
 <img align="right" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
